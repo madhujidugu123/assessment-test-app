@@ -1,2 +1,2 @@
 value='devopsassessment'
-print(len(value))
+print('number of letters in the word devopsassessment is '+len(value))
